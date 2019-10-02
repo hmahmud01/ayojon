@@ -1,0 +1,17 @@
+.btn-round-left {
+    border-width: 1px;
+    border-top-left-radius: 30px !important;
+    border-bottom-left-radius: 30px !important;
+    padding: 11px 23px;
+}
+
+.btn-round-right {
+    border-width: 1px;
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+    padding: 11px 23px;
+}
+
+.btn-block-login {
+    width: 278.817px;
+}

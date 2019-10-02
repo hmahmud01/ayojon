@@ -1,0 +1,154 @@
+[data-background-color="orange"] {
+    background-color: #e95e38;
+}
+
+[data-background-color="black"] {
+    background-color: #2c2c2c;
+}
+
+[data-background-color="magenta"] {
+    background-color: rgb(156, 39, 176);
+}
+
+[data-background-color="pink"] {
+    background-color: rgb(233, 30, 99);
+}
+
+[data-background-color="green1"] {
+    background-color: rgb(0, 150, 136);
+}
+
+[data-background-color="green2"] {
+    background-color: rgb(76, 175, 80);
+}
+
+[data-background-color="blue"] {
+    background-color: rgb(33, 150, 243);
+}
+
+[data-background-color="white"] {
+    background-color: #ffffff;
+}
+
+[data-background-color="smoke"] {
+    background-color: #f2f2f2;
+}
+
+[data-background-color="yellow"] {
+    background-color: rgb(243, 241, 52);
+}
+
+.image-clips{
+	min-height: 325px; 
+	height: 442px;
+}
+
+.icon-space {
+	padding: 60px 40px 60px 40px;
+}
+
+.icon-circle {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    border: solid 1px #ffffff;
+    color: #ffffff;
+    border-radius: 50%;
+    margin: 0 auto 0 auto;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.description {
+	padding : 0 12px 12px 0;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+.index-title {
+	position: absolute;
+	bottom: 12px;
+	padding: 40px 40px 0 40px;
+	color: white;
+}
+
+.site-title{
+	color: #f96332 !important;
+}
+
+.section-sub{
+	padding-top: 70px;
+}
+
+.note-background {
+	background-color: #ffffff;
+}
+
+.note-description {
+	padding: 12px 12px 12px 36px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	color: black;
+	font-weight: 300;
+}
+
+.text-r{
+	float: right !important;
+}
+
+.text-black {
+	color: black !important;
+}
+
+.blockquote.blockquote-black {
+    border-color: #283a7a;
+    color: #283a7a;
+}
+
+.text-white {
+	color: #FFFFFF !important
+}
+
+.map {
+	height: 100%;
+}
+
+.map-wrapper {
+	height: 100%;
+	margin: 0;
+	padding: 0;	
+}
+
+.map-section {
+	background-color: #000000;	
+}
+
+.address {
+	position: relative;
+}
+
+.address_sticker {
+	background-color: whitesmoke;
+	position: absolute;
+	left: 110px;
+	top: 150%;
+	/* bottom: -250px; */
+}
+
+.find_us-note{
+	margin-top: 35%;
+}
+
+.listRoot{
+	height: 332px;
+	overflow-y: scroll;
+	padding: 16px 0;
+}
+
+.card:hover {
+	box-shadow: 0 20px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.profile_hello{
+	font-weight: 300;
+}
